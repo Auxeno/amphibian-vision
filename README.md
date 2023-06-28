@@ -10,14 +10,6 @@ The classifier is built upon the EfficientNetV2 model, fine-tuned on a subset of
 
 Grad-CAM visualizations are then employed to help us interpret how our model makes its decisions. By highlighting the regions in the image that influence the model's decision the most, we can gain insights into which anatomical features our model deems crucial in distinguishing frogs from toads.
 
-## Prerequisites
-You should have the following installed:
-
-- Python 3.7+
-- PyTorch 1.7.0+
-- torchvision 0.8.1+
-- captum
-
 ## Viewing the Project
 This project is a Jupyter notebook and is best viewed on nbviewer:
 
