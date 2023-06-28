@@ -13,4 +13,4 @@ Grad-CAM visualizations are then employed to help us interpret how our model mak
 ## Viewing the Project
 This project is a Jupyter notebook and is best viewed on nbviewer:
 
-https://github.com/Auxeno/amphibian-vision/blob/main/amphibian-vision.ipynb
+https://nbviewer.org/github/Auxeno/amphibian-vision/blob/main/amphibian-vision.ipynb
