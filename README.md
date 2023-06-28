@@ -13,7 +13,12 @@ Grad-CAM visualizations are then employed to help us interpret how our model mak
 ## Prerequisites
 You should have the following installed:
 
-Python 3.7+
-PyTorch 1.7.0+
-torchvision 0.8.1+
-captum
+- Python 3.7+
+- PyTorch 1.7.0+
+- torchvision 0.8.1+
+- captum
+
+## Viewing the Project
+This project is a Jupyter notebook and is best viewed on nbviewer:
+
+https://github.com/Auxeno/amphibian-vision/blob/main/amphibian-vision.ipynb
